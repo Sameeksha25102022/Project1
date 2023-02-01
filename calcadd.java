@@ -3,6 +3,7 @@ public class calcadd{
 	public static void main(String args[]){
 		float a,b, res;
 		char choice, ch;
+		System.out.println("Changes made\n");
 		Scanner scan = new Scanner(System.in);
 
 		do {
